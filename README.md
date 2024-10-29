@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viraaajas
 - 👀 I’m interested in collaboration in Open Source Software
 - 🌱 I’m currently learning Python Libraries
-- 💞️ I’m looking to collaborate on Python models
+- 💞️ I’m looking to collaborate on Python libraries
 - 📫 How to reach me : will disclose soon
 - 😄 Pronouns: he/him/his
 
