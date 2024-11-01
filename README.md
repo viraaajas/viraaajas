@@ -1,5 +1,5 @@
 # 💫 About Me:
-Viraaajas Here !!<br>🔭 Engineering student exploring Machine Learning & Artificial Intelligence<br>👯 Open to collaborating on language translation projects in Hindi (hi) and Marathi (mr)<br>🌱 Currently building skills in ML frameworks and AI concepts
+Viraaajas Here !!<br>🔭 Engineering student exploring Machine Learning & Artificial Intelligence<br>👯 Interested in collaborating on language translation for Hindi (hi) and Marathi (mr) in<br>🌱 Currently building skills in ML frameworks and AI concepts
 
 
 # 💻 Tech Stack:
