@@ -1,5 +1,5 @@
 # 💫 About Me:
-Viraaajas Here !!<br>🔭 Engineering student exploring Machine Learning & Artificial Intelligence<br>👯 Interested in collaborating on language translation for Hindi (hi) and Marathi (mr) in<br>🌱 Currently building skills in ML frameworks and AI concepts
+Viraaajas Here !!<br>🔭 Engineering student exploring Machine Learning & Artificial Intelligence<br>👯 Interested in collaborating on language translation for Hindi (hi) and Marathi (mr)<br>🌱 Currently building skills in ML frameworks and AI concepts
 
 
 # 💻 Tech Stack:
@@ -11,5 +11,3 @@ Viraaajas Here !!<br>🔭 Engineering student exploring Machine Learning & Artif
 
 ---
 [![](https://visitcount.itsvg.in/api?id=viraaajas&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
