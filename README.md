@@ -1,5 +1,5 @@
 # 💫 About Me:
-Vishal Here !!<br>🔭 Yet another engineering student exploring Machine Learning & Artificial Intelligence<br>👯 Interested in collaborating on language translation for Hindi (hi) and Marathi (mr)<br>🌱
+Vishal Here !!<br>🔭 Yet another engineering student exploring Machine Learning & Artificial Intelligence<br>👯 Interested in collaborating on language translation for Hindi (hi) and Marathi (mr)<br>
 
 
 # 💻 Tech Stack:
